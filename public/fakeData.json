@@ -1,0 +1,53 @@
+[
+    {
+        "id":"124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "AuthorName": "Mr. Anik",
+        "date": "Mar 14 (4 Days ago)",
+        "BlogTitle": "How to get your first job as a self-            taught programmer",
+        "BlogCoverImage": "https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/305024110_1263551794418994_2399501013627363910_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0718gFM9BugAX_z-Ez3&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfCX-Q9zZfkLxR032mmlWVHqBFmMZ61MS4IrPEoO4xgl0A&oe=642A5E2F",
+        "programmingImg": "https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "#beginners",
+        "job": "#programming",
+        "redTiming": "12 ",
+        "blogs": "Master Microsoft Power Platform and Become an In-Demand!"
+    },
+    {
+        "id":"124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "AuthorName": "Mr. Tuhin",
+        "date": "Mar 14 (4 Days ago)",
+        "BlogTitle": "How to get your first job as a self-taught programmer",
+        "BlogCoverImage": "https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/301255839_3225578744362137_8432827628555415871_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lTsXMKv5SuMAX_2cuGl&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfDvsu8ZgN-gHfVG-7eMjLEn-fsg9_t34tudKXryUXuYdQ&oe=642A6BDA",
+        "programmingImg": "https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "#beginners",
+        "job": "#programming",
+        "redTiming": "10",
+        "blogs": "Master Microsoft Power Platform and Become an In-Demand!"
+        
+    },
+    {
+        "id":"124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "AuthorName": "Mr. Miftahull",
+        "date": "Mar 14 (4 Days ago)",
+        "BlogTitle": "How to get your first job as a self-taught programmer",
+        "BlogCoverImage": "https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/225895089_114948630875118_6984156489574640282_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JIIGCZwbgXYAX_w1Oqd&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfC_bQbjUFTPVGyUSwlyd3_UAue-RGfBKRsEfJNpy7D0qw&oe=6429DD4F",
+        "programmingImg": "https://images.pexels.com/photos/4974907/pexels-photo-4974907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "#beginners",
+        "job": "#programming",
+        "redTiming": "05",
+        "blogs": "Master Microsoft Power Platform and Become an In-Demand!"
+
+
+    },
+    {
+        "id":"124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "AuthorName": "Mr. Sakib",
+        "date": "Mar 14 (4 Days ago)",
+        "BlogTitle": "How to get your first job as a self-taught programmer",
+        "BlogCoverImage": "https://lh3.googleusercontent.com/a/AGNmyxbKKUL1ekZDs_MY1w43zKNsW03JxQkEBKOs-s7j2g=s260",
+        "programmingImg": "https://images.pexels.com/photos/6804613/pexels-photo-6804613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "#beginners",
+        "job": "#programming",
+        "redTiming": "20 ",
+        "blogs": "Master Microsoft Power Platform and Become an In-Demand!"
+    }
+]
